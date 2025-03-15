@@ -309,3 +309,24 @@ This ensures that the styles and scripts are properly loaded from their respecti
 | Bomb Probability       | `config.bombChance`          | 15%              |
 | Freeze Duration        | `config.iceDuration`         | 4000ms           |
 | Score Values           | `processClick()` multipliers | +10/-30 points   |
+
+## ⭐ Credits
+
+| Section         | Details                                                                 |
+|-----------------|-------------------------------------------------------------------------|
+| **Developer**   | [˹ⁱᵗˢ𒆜Sowrov˼](https://t.me/Swrov)                                   |
+| **Organization**| [JS Organization](https://t.me/JSOrganization)                         |
+| **Bot Link**    | [@BBDropBlastBot](https://t.me/BBDropBlastBot)                         |
+
+---
+
+### 🏆 About Contest & Result
+| Section         | Details                                                                 |
+|-----------------|-------------------------------------------------------------------------|
+| **Hosted By**   | [Bots.Business](https://bots.business)                                 |
+| **Achievement** | **1st Place** 🏆                                                       |
+
+---
+
+### 🙏 Acknowledgments
+> Special thanks to the **Bots.Business** team for organizing the contest and providing a platform to showcase innovative Telegram WebApps. This project was developed as part of the contest, and winning **1st Place** is a testament to the hard work and creativity invested in this project.
